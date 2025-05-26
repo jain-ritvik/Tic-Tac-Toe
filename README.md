@@ -14,4 +14,4 @@ Beginner friendly
 - Reset Game option
 - Display name of winner or draw
 
-  Please feel free to share your feedback, your review will be highly appreciated!
+Please feel free to share your feedback, your review will be highly appreciated!
